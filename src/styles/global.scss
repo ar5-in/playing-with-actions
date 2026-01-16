@@ -1,0 +1,15 @@
+:root {
+    --color-background: #222;
+    --color-foreground: #ddd;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+}
+
+.project-icon {
+    width: 300px;
+    height: auto;
+}
